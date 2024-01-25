@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B1CF1E94-6CE7-4D67-9175-11A8651CD8F4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0261A257-342C-4598-B7DA-A72C18960AE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MagicDice/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0261A257-342C-4598-B7DA-A72C18960AE0 - 9a347a6cd2e9631a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicDice.ViewController.inputUser.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "MagicDice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/MagicDice/MagicDice/MagicDice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "0261A257-342C-4598-B7DA-A72C18960AE0 - 991349676f0f2f0e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicDice.ViewController.inputUser.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "MagicDice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/MagicDice/MagicDice/MagicDice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "0261A257-342C-4598-B7DA-A72C18960AE0 - ebae40f58f4adc19"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicDice.ViewController.inputUser.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "MagicDice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/MagicDice/MagicDice/MagicDice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "0261A257-342C-4598-B7DA-A72C18960AE0 - ac2d9fa713b99c76"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicDice.ViewController.inputUser.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MagicDice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/MagicDice/MagicDice/MagicDice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "0261A257-342C-4598-B7DA-A72C18960AE0 - 4a13c86eaebc6f31"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicDice.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MagicDice.ViewController"
+                  moduleName = "MagicDice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/MagicDice/MagicDice/MagicDice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "0261A257-342C-4598-B7DA-A72C18960AE0 - d1d1bc697e71a7f5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicDice.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MagicDice.ViewController&gt;"
+                  moduleName = "MagicDice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/MagicDice/MagicDice/MagicDice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "0261A257-342C-4598-B7DA-A72C18960AE0 - 4a13c86eaebc6f31"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicDice.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MagicDice.ViewController"
+                  moduleName = "MagicDice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/MagicDice/MagicDice/MagicDice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  uuid = "0261A257-342C-4598-B7DA-A72C18960AE0 - d1d1bc697e71a7f5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicDice.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MagicDice.ViewController&gt;"
+                  moduleName = "MagicDice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Documents/MagicDice/MagicDice/MagicDice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
